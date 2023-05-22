@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uD4zlRlNGOvCCla4b9wwaC/RKyThnceZZCzeLcZWdUBSB2lN1StKQA2wFzmzgFrzwPSiKDOQKkNVVgsLq6PdIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Projetos\\Series\\DIO_Series\\DIO_Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
